@@ -1,0 +1,7 @@
+{
+	"name": "@mobilmacher/maxios",
+	"main": "index.js",
+	"dependencies": {
+		"axios": "^0.18.0"
+	}
+}
